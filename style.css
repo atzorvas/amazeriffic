@@ -1,0 +1,20 @@
+body {
+  font-size: 100%;
+}
+
+h1 {
+  font-family: 'Denk One', sans-serif;
+  font-size: xx-large;
+}
+
+h2 {
+  font-size: x-large;
+}
+
+.important {
+  font-size: larger;
+}
+
+.onePointTwo {
+  font-size: 1.2em;
+}
