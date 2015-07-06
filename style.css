@@ -14,3 +14,17 @@ header .container, main .container, footer .container {
 header, main {
   background: white;
 }
+
+header, main, footer {
+  overflow: auto;
+}
+
+header h1, main .left, footer .contact {
+  float: left;
+  width: 570px;
+}
+
+header nav, main .right, footer .sitemap {
+  float: right;
+  width: 285px;
+}
