@@ -1,20 +1,11 @@
 body {
-  font-size: 100%;
+  background: #f9e933;
 }
 
-h1 {
-  font-family: 'Denk One', sans-serif;
-  font-size: xx-large;
+header, main, footer {
+  min-width: 855px;
 }
 
-h2 {
-  font-size: x-large;
-}
-
-.important {
-  font-size: larger;
-}
-
-.onePointTwo {
-  font-size: 1.2em;
+header, main {
+  background: white;
 }
